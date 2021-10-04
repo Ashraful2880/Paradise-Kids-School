@@ -4,7 +4,7 @@ Paradise Kids School React App.
 
 ## Project Url:
 
-Paradise Kids School React App.
+https://paradise-kids-school-react-app.netlify.app/home
 
 ## Project Description:
 
