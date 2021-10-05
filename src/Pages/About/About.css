@@ -1,0 +1,21 @@
+.about-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.about-container img {
+    margin-top: 10px;
+    width: 80%;
+    border-radius: 10px;
+}
+
+hr {
+    width: 50%;
+    margin-left: 160px;
+    padding: 1px 0;
+    background-color: black;
+}
+
+.description {
+    box-shadow: 5px 5px 30px rgb(200, 200, 200);
+}

@@ -1,0 +1,9 @@
+.menu-area a {
+    font-size: 20px;
+    font-weight: 400;
+    transition: ease-in-out 0.3s;
+}
+
+.menu-area a:hover {
+    transform: scale(1.1);
+}

@@ -1,0 +1,10 @@
+.cart-container {
+    height: 550px;
+    margin: 0 10px;
+    transition: ease-in-out 0.5s;
+    border: 1px solid rgb(230, 230, 230);
+}
+
+.cart-container:hover {
+    box-shadow: 5px 5px 30px rgb(185, 184, 184);
+}

@@ -1,0 +1,84 @@
+.banner-area {
+    background: linear-gradient(360deg, rgba(0, 0, 0, 0.726), rgba(0, 0, 0, 0.685)), url('../../images/banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    height: 90vh;
+    margin-bottom: 50px;
+}
+
+.banner-heading {
+    position: absolute;
+    top: 22%;
+    right: 10%;
+    width: 30%;
+    text-align: left;
+}
+
+.banner-heading h1 {
+    font-size: 60px;
+}
+
+.banner-heading p {
+    font-size: 20px;
+    color: rgb(231, 231, 231);
+    margin-top: 40px;
+}
+
+.banner-heading button {
+    font-size: 18px;
+}
+
+/*------------> Event Area Style Here <------------- */
+.events {
+    position: relative;
+}
+
+.event {
+    display: flex;
+    justify-content: space-between;
+}
+
+.overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    border-radius: 7px;
+    cursor: pointer;
+    background: linear-gradient(rgba(0, 0, 0, 0.712), #056e60);
+    opacity: 0;
+    transition: 1s;
+}
+
+.events:hover .overlay {
+    opacity: 1;
+}
+
+.service-desc {
+    width: 80%;
+    position: absolute;
+    left: 50%;
+    color: #fff;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: 0.1s;
+}
+
+.events:hover .service-desc {
+    bottom: 40%;
+    opacity: 1;
+}
+
+.hover-text {
+    position: absolute;
+    bottom: 40%;
+    left: 8%;
+    width: 90%;
+    color: #fff;
+    display: none;
+}
+
+.events:hover .hover-text {
+    display: block;
+}

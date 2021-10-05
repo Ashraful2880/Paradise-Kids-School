@@ -1,0 +1,75 @@
+
+[
+    {
+      "id": "1101",
+      "url": "./service-1.jpg",
+      "name": "Arts Programme",
+      "duration": "6-Month",
+      "fees":1200,
+      "teacher":"John Smith"
+    },    
+    {
+      "id": "1102",
+      "url": "./service-4.jpg",
+      "name": "Hand Writing Programme",
+      "duration": "3-Month",
+      "fees":1000,
+      "teacher":"Steven Carter"
+    },    
+    {
+      "id": "1103",
+      "url": "./service-2.jpg",
+      "name": "Foreign Language Programme",
+      "duration": "24-Month",
+      "fees":4000,
+      "teacher":"Michel Smith"
+    },    
+    {
+      "id": "1104",
+      "url": "./service-3.jpg",
+      "name": "Sports Programme",
+      "duration": "24-Month",
+      "fees":3000,
+      "teacher":"Charles"
+    },   
+    {
+      "id": "1105",
+      "name": "Guide Programme",
+      "url": "./service-5.jpg",
+      "duration": "3-Month",
+      "fees":2000,
+      "teacher":"Elina Vasilaki"
+    },    
+    {
+      "id": "1106",
+      "url": "./service-6.jpg",
+      "name": "Speaking Programme",
+      "duration": "12-Month",
+      "fees":1300,
+      "teacher":"Summy lolyldon"
+    },    
+    {
+      "id": "1107",
+      "url": "./service-7.jfif",
+      "name": "Draw Programme",
+      "duration": "3-Month",
+      "fees":1300,
+      "teacher":"Curis John"
+    },    
+    {
+      "id": "1108",
+      "url": "./service-9.jfif",
+      "name": "Pre-Cadet Programme",
+      "duration": "36-Month",
+      "fees":6500,
+      "teacher":"Mr. Akbar"
+    },    
+    {
+      "id": "1109",
+      "url": "./service-8.jfif",
+      "name": "Poem Programme",
+      "duration": "3-Month",
+      "fees":800,
+      "teacher":"Sanita Shathi"
+    }    
+  ]
