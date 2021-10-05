@@ -13,6 +13,16 @@ textarea {
     background-color: rgb(240, 240, 240);
 }
 
+input:focus {
+    background-color: #fff;
+    outline: grey;
+}
+
+textarea:focus {
+    background-color: #fff;
+    outline: grey;
+}
+
 .contact-field,
 .contact-text {
     margin: 0 10px;
