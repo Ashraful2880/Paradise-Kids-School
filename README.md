@@ -8,7 +8,7 @@ https://paradise-kids-school-react-app.netlify.app/home
 
 ## Project Description:
 
-** This is a Kids School Website.
-** This Website Made BNy React App With Routing.
-** We Use Bootstrap framework As Style & Some Of Vanila Style.
+* This is a Kids School Website.
+* This Website Made BNy React App With Routing.
+* We Use Bootstrap framework As Style & Some Of Vanila Style.
 
